@@ -1,0 +1,3 @@
+KEYWORD = '游戏原画'
+OFFSET_START = 0
+OFFSET_END =10
